@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: fantasy;
+}
+.big-frame{
+    display: grid;
+    gap: 1rem;
+    grid-auto-columns: 1fr;
+}
+.title{
+    padding: 15px;
+    background-color: wheat;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 35px;
+}
+.body{
+    padding: 15px;
+    background-color: gainsboro;
+    border-radius: 15px;
+    font-size: 20px;
+}
